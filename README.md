@@ -1,7 +1,7 @@
 <h1 align="center">Curso JavaScript - CursoEmVideo</h1>
 
 <div>
-  <h2>Sobre</h2>
+  <h2>📌 Sobre</h2>
     <p>Graças ao <b>Gustavo Guanabara</b> e toda equipe do <b>CursoEmVideo</b>, pude fazer esse curso e, com ele, pude fazer vários projetos,
     que podem ser encontrados nesse repositório.</p>
     <p>Usando HTML, CSS e principalmente JavaScript, fiz 5 projetos:
@@ -15,7 +15,7 @@
 </div>
 <hr>
 <div>
-  <h2>O que aprendi?</h2>
+  <h2>❓ O que aprendi?</h2>
     <p> Com esse Curso, aprendi muita coisa sobre JavaScript, foram algumas delas: <b>Variáveis e Tipos Primitivos, Tratamento de Dados, Operadores, Manipulação do DOM, Condições, Repetições, Arrays e Funções.</b></p>
   <ul>
     <li>Sobre <b>Tratamento de Dados</b>, pude ver como transformar uma String em Number e vice-versa. Vi também sobre o Template String e o uso de Placeholders, e várias outras coisas.</li>
@@ -30,10 +30,30 @@
 </div>
 <hr>
 <div>
-  <h2>Tecnologias e Ferramentas</h2><br>
+  <h2>🛠 Tecnologias e Ferramentas</h2><br>
     <img align="center" alt="JS-Caio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<hr>
+<div align="center">
+  <h2>📍 Resultados: </h2>
+  <h3>🙋‍♂️Verificador de Idade🙋‍♀️</h3>
+  <img width="500px" src="https://github.com/caiolacerdamt/curso-javascript/blob/master/Gif%20Verificador%20De%20Idade.gif">
+  <hr>
+  <h3>🕐Horário🕐</h3>
+  <img width="500px" src="https://github.com/caiolacerdamt/curso-javascript/blob/master/Gif%20Horário.gif">
+  <hr>
+  <h3>➕Tabuada➕</h3>
+  <img width="500px" src="https://github.com/caiolacerdamt/curso-javascript/blob/master/Gif%20Tabuada.gif">
+  <hr>
+  <h3>📖Contador📖</h3>
+  <img width="500px" src="https://github.com/caiolacerdamt/curso-javascript/blob/master/Gif%20Contador.gif">
+  <hr>
+  <h3>🔎Analisador🔎</h3>
+  <img width="500px" src="https://github.com/caiolacerdamt/curso-javascript/blob/master/Gif%20Analisador.gif">
+  <hr>
+
 </div>
 
 <div align="center">
